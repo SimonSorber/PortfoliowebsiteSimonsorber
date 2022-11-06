@@ -1,0 +1,22 @@
+body{
+    background-color: aquamarine;
+}
+
+h1{
+    text-align: center;
+}
+
+form{
+    text-align: center;
+}
+
+    
+@media (max-width: 768px) {
+    h1{
+        text-align: left;
+    }
+  form{
+    text-align: left;
+  }
+
+}
